@@ -1,0 +1,199 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "HEEBSTFERIEN",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "heebstferien"
+    },
+    {
+      "name": "CRAFTHEEBSTFERIEN",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "craftheebstferien"
+    },
+    {
+      "name": "TABHEEBSTFERIEN",
+      "type": "tab",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tabheebstferien"
+    },
+    {
+      "name": "BIOMEDIMHEEBSTFERIEN",
+      "type": "biome",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "biomedimheebstferien"
+    },
+    {
+      "name": "DIMHEEBSTFERIEN",
+      "type": "dimension",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dimheebstferien"
+    },
+    {
+      "name": "COMFLYSPEEDCommandExecuted",
+      "type": "procedure",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "comflyspeed_command_executed",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "name": "COMFLYSPEED",
+      "type": "command",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "comflyspeed"
+    },
+    {
+      "name": "UGAY",
+      "type": "gun",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ugay"
+    },
+    {
+      "name": "HELTHEntityWalksOnTheBlock",
+      "type": "procedure",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "helth_entity_walks_on_the_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "HELTH",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "helth"
+    },
+    {
+      "name": "HEEBSTFERIENORE",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "heebstferienore"
+    },
+    {
+      "name": "Heebstferieningot",
+      "type": "item",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "heebstferieningot"
+    },
+    {
+      "name": "Heebsferienoresmelt",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "heebsferienoresmelt"
+    },
+    {
+      "name": "HEEBSTAXE",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "heebstaxe"
+    },
+    {
+      "name": "Dimigniter",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dimigniter"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.gg.helth": "HELTH",
+      "item.gg.heebstferieningot": "Heebstferieningot",
+      "block.gg.heebstferien": "HEEBSTFERIEN",
+      "itemGroup.tabtabheebstferien": "HEEBSTFERIEN",
+      "item.gg.ugay": "U GAY",
+      "item.gg.dimheebstferien": "DIMHEEBSTFERIEN Portal Igniter",
+      "block.gg.heebstferienore": "HEEBSTFERIENORE",
+      "item.gg.heebstaxe": "HEEBSTAXE"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "gg",
+    "modName": "GG",
+    "version": "1.0.0",
+    "author": "Br1cky, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.gg",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000432115
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "gg:block/dimheebstferien_portal_ew"
+    },
+    "axis=x": {
+      "model": "gg:block/dimheebstferien_portal_ns"
+    }
+  }
+}

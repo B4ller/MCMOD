@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "gg:blocks/helth",
+    "up": "gg:blocks/helth",
+    "north": "gg:blocks/helth",
+    "east": "gg:blocks/helth",
+    "south": "gg:blocks/helth",
+    "west": "gg:blocks/helth",
+    "particle": "gg:blocks/helth"
+  }
+}

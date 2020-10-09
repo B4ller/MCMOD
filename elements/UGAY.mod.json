@@ -1,0 +1,36 @@
+{
+  "_fv": 10,
+  "_type": "gun",
+  "definition": {
+    "renderType": 0,
+    "texture": "ugay",
+    "customModelName": "Normal",
+    "name": "U GAY",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:TABHEEBSTFERIEN"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "Blocks.CONCRETE_POWDER#6"
+    },
+    "shootConstantly": false,
+    "usageCount": 100,
+    "actionSound": {
+      "value": "entity.arrow.shoot"
+    },
+    "hasGlow": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.5,
+    "bulletPower": 3.0,
+    "bulletDamage": 3.0,
+    "bulletKnockback": 1,
+    "bulletParticles": true,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "Items.SUGAR"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": ""
+  }
+}

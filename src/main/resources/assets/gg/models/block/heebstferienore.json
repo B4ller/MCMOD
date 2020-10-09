@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "gg:blocks/heebstferienore",
+    "up": "gg:blocks/heebstferienore",
+    "north": "gg:blocks/heebstferienore",
+    "east": "gg:blocks/heebstferienore",
+    "south": "gg:blocks/heebstferienore",
+    "west": "gg:blocks/heebstferienore",
+    "particle": "gg:blocks/heebstferienore"
+  }
+}

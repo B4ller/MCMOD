@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "gg:blocks/server-icon",
+    "up": "gg:blocks/server-icon",
+    "north": "gg:blocks/server-icon",
+    "east": "gg:blocks/server-icon",
+    "south": "gg:blocks/server-icon",
+    "west": "gg:blocks/server-icon",
+    "particle": "gg:blocks/server-icon"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "_fv": 10,
+  "_type": "dimension",
+  "definition": {
+    "portalFrame": {
+      "value": "CUSTOM:HEEBSTFERIEN"
+    },
+    "portalParticles": {
+      "value": "PORTAL"
+    },
+    "portalLuminance": 0.0,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "DIMHEEBSTFERIEN Portal Igniter",
+    "igniterTab": {
+      "value": "CUSTOM:TABHEEBSTFERIEN"
+    },
+    "texture": "dimigniter",
+    "portalTexture": "server-icon",
+    "enablePortal": true,
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:BIOMEDIMHEEBSTFERIEN"
+      }
+    ],
+    "worldGenType": "End like gen",
+    "mainFillerBlock": {
+      "value": "CUSTOM:HEEBSTFERIEN"
+    },
+    "fluidBlock": {
+      "value": "Blocks.WATER"
+    },
+    "airColor": {
+      "value": -65485,
+      "falpha": 0.0
+    },
+    "canRespawnHere": false,
+    "hasFog": true,
+    "hasWeather": true,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "BED_EXPLODES",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": false
+  }
+}

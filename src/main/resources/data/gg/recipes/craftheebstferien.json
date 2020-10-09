@@ -1,0 +1,42 @@
+{
+  "group": "gg",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "gg:heebstferieningot"
+    },
+    "1": {
+      "item": "gg:heebstferieningot"
+    },
+    "2": {
+      "item": "gg:heebstferieningot"
+    },
+    "3": {
+      "item": "gg:heebstferieningot"
+    },
+    "4": {
+      "item": "minecraft:diamond_block"
+    },
+    "5": {
+      "item": "gg:heebstferieningot"
+    },
+    "6": {
+      "item": "gg:heebstferieningot"
+    },
+    "7": {
+      "item": "gg:heebstferieningot"
+    },
+    "8": {
+      "item": "gg:heebstferieningot"
+    }
+  },
+  "result": {
+    "item": "gg:heebstferien",
+    "count": 1
+  }
+}
